@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Intro to the pack/.keep
-      - Intro to the pack/Overivew.md
+      - Intro to the pack/Overview.md
       - The 5 year plan/.keep
       - The 5 year plan/The 5 year plan.md
       - Getting others onboard/.keep
