@@ -26,9 +26,9 @@ sections:
           - title: Approaching vendors
             url: /start-here/approaching-vendors/overview
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "Thanks for showing your interest! "
+      description: This site is currently under construction. Let us know if you're
+        interested in contributing or joining the mailing list.
+      button: I'm interested
+      url: /start-here/intro/overview
 ---
