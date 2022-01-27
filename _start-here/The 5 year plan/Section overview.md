@@ -4,20 +4,19 @@ permalink: /start-here/5-year-plan/overview
 description: ""
 third_nav_title: The 5 year plan
 ---
-
 ## The 5 Year Plan
 
-System development and modernisation is know to take notoriously long and often what is planned only materialise 5 years after or even later... But does it have to happen this way?
+System development and modernisation is known to take notoriously long, and often what is planned only materialises after 5 years or more... But does it have to happen this way?
 
-We beg to differ as long timelines are often due to poor problem scoping, process design, tender requirements writing and vendor management snowballing into massive, complicated systems which often require so long to build that the underlying needs and processes have changed by the time the system is ready for deployment!
+Long timelines are often due to poor problem scoping, process design, tender requirements writing, and vendor management. These snowball into massive, complicated systems which often require such lengths of time to build – by which initial underlying needs and processes have already changed by the point of deployment!
 
 #### The Plan Overview
 
 What these plans often look like now:
-<image to be inserted>
+<img>
 
 What they should look like:
-<image to be inserted>
+<img>
 
 What the ideal plan looks like:
-<image to be inserted>
+<img>
