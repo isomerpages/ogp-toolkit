@@ -2,13 +2,13 @@ collections:
   start-here:
     output: true
     order:
-      - Pre tender/Pre tender.md
-      - Pre tender/.keep
-      - Scoping the problem/Scoping the problem.md
-      - Scoping the problem/.keep
-      - Getting others onboard/Getting others onboard.md
-      - Getting others onboard/.keep
-      - The 5 year plan/The 5 year plan.md
-      - The 5 year plan/.keep
-      - Intro to the pack/Intro to the pack.md
       - Intro to the pack/.keep
+      - Intro to the pack/Intro to the pack.md
+      - The 5 year plan/.keep
+      - The 5 year plan/The 5 year plan.md
+      - Getting others onboard/.keep
+      - Getting others onboard/Getting others onboard.md
+      - Scoping the problem/.keep
+      - Scoping the problem/Scoping the problem.md
+      - Pre tender/.keep
+      - Pre tender/Pre tender.md
