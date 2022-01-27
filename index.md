@@ -7,7 +7,7 @@ permalink: /
 notification: This site is currently under construction 🚧
 sections:
   - hero:
-      title: One Unified System Starter Pack
+      title: OneUnifiedSystem Starter Pack
       subtitle: A collection of resources to help Public Officers get started on
         modernising an agency's legacy systems.
       background: /images/hero-banner.png
@@ -33,4 +33,3 @@ sections:
       button: I'm interested
       url: /start-here/intro/overview
 ---
-
