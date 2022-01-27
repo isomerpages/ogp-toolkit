@@ -14,17 +14,17 @@ sections:
         title: Jump to a section
         options:
           - title: Intro to the pack
-            url: ""
+            url: /start-here/intro/overview
           - title: The 5 year plan
-            url: ""
+            url: /start-here/5-year-plan/overview
           - title: Getting others onboard
-            url: ""
+            url: /start-here/getting-others-onboard/overview
           - title: Scoping the problem
-            url: ""
+            url: /start-here/scoping-the-problem/overview
           - title: Pre-tender
-            url: ""
+            url: /start-here/pre-tender/overview
           - title: Approaching vendors
-            url: ""
+            url: /start-here/approaching-vendors/overview
   - infobar:
       title: Infobar title
       subtitle: Subtitle
