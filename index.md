@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This site is a work-in-progress
+notification: This site is currently under construction 🚧
 sections:
   - hero:
       title: One Unified System Starter Pack
