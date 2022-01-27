@@ -6,16 +6,19 @@ layout: post
 description: ""
 third_nav_title: Scoping the problem
 ---
+## Scoping the Problem
 
+The first step to any system modernisation plan - clarifying the problem that is being solved by this plan. We aren't into modernisation or digitisation just to create a fancy new cloud system, the end result has to be something that solves public sector problems and creates impact for public officers and the public!
 
+Hence we should always first ask the question: what problem are we solving with this system?
 
+The problem with that question is massive government agencies and multiple stakeholders often have multiple problems they want to solve and your job is to figure out what is the underlying problem or most important problem that should be addressed first?
 
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+There will be massive pressure to solve everybody's problems, but that often results in none of their problems being solved or the solution becoming a problem in itself as the system becomes unwieldly and massively complex.
 
-#### **General Legal Information**
+#### Figuring out what parts of the problem requires other solutions 
+New systems are often the "magic bullet" that can fix all our problems, but the fact is some problems require other solutions such as unwieldly processes or templates simply need to be trimmed and relooked, obselete policies may need to be re-written, and simply digitising such problematic processes or policies will simply result in a situation of garbage in, garbage out...
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### Myth of the One Unified System
+Content to be added
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
