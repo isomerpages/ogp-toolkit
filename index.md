@@ -7,7 +7,7 @@ permalink: /
 notification: This site is a work-in-progress
 sections:
   - hero:
-      title: OneUnifiedSystem™ Starter Pack
+      title: One Unified System Starter Pack
       subtitle: Starter pack
       background: /images/hero-banner.png
       dropdown:
