@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - The 5 year plan.md
       - Scoping the problem.md
       - Intro to the pack.md
       - Getting others onboard.md
