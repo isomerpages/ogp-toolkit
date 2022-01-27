@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - Pre tender/Pre tender.md
       - Pre tender/.keep
       - Scoping the problem/Scoping the problem.md
       - Scoping the problem/.keep
