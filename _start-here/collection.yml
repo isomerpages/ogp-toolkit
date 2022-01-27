@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Intro to the pack/.keep
-      - Intro to the pack.md
       - The 5 year plan.md
       - Getting others onboard.md
       - Scoping the problem.md
