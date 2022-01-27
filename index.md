@@ -17,13 +17,13 @@ sections:
             url: ""
           - title: The 5 year plan
             url: ""
-          - title: Getting stakeholders onboard
+          - title: Getting others onboard
             url: ""
           - title: Scoping the problem
             url: ""
           - title: Pre-tender
             url: ""
-          - title: Working with vendors
+          - title: Approaching vendors
             url: ""
   - infobar:
       title: Infobar title
