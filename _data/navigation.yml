@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Start Here
     collection: start-here
+  - title: I'm interested!
+    url: /interested
