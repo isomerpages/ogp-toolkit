@@ -2,7 +2,6 @@ collections:
   start-here:
     output: true
     order:
-      - Intro to the pack/Overview2.md
       - Intro to the pack/.keep
       - Intro to the pack/Overview.md
       - The 5 year plan/.keep
