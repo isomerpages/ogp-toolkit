@@ -8,7 +8,8 @@ notification: This site is a work-in-progress
 sections:
   - hero:
       title: One Unified System Starter Pack
-      subtitle: Starter pack
+      subtitle: A collection of resources to help Public Officers modernise their
+        agency's legacy systems.
       background: /images/hero-banner.png
       dropdown:
         title: Jump to a section
