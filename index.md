@@ -10,7 +10,7 @@ sections:
       title: OneUnifiedSystem Starter Pack
       subtitle: A collection of resources to help Public Officers get started on
         modernising an agency's legacy systems.
-      background: /images/hero-banner.png
+      background: /images/bg.png
       dropdown:
         title: Jump to a section
         options:
