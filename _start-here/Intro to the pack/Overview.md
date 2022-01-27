@@ -10,7 +10,7 @@ Welcome to the **OneUnifiedSystem Starter Pack**! This is an open resource to al
 
 #### What is this starter pack for?
 
-Many agencies are looking to modernize their legacy systems. This is daunting for any public officer tasked with this challenge, especially in larger agencies with many complex workflows – and where officers often aren't equipped with the relevant experience for such digitalisation.
+Many agencies are looking to modernize their legacy systems. This is daunting for any public officer tasked with this challenge, especially in larger agencies with many complex workflows – and where officers often aren't equipped with the relevant experience for such digitisation.
 
 This leads to a great deal of confusion and difficulty in making sense of what is required to effectively solve the agency's problems. It doesn't help when there are so many stakeholders involved who may not understand the needs and benefits of such modernisation.
 
