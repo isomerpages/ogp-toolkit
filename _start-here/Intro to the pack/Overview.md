@@ -11,7 +11,9 @@ third_nav_title: Intro to the pack
 Welcome to the **OneUnifiedSystem Starter Pack**! This is an open resource to all public officers.
 
 #### What is this starter pack for?
-Many agencies are looking to modernize their legacy systems. This can be a daunting task for the public officer faced with this challenges, especially for large agencies with a large number of complex workflows. Where do I start? How do I make a plan? What are some best practices? How do I write a good tender?
+Many agencies are looking to modernize their legacy systems. This is daunting for any public officer tasked with this challenge, especially in large agencies with a large number of complex workflows. 
+
+Officers always say that they need *one unified system*, but what does that mean? Is that the best approach? Where do I start? How do I make a plan? What are some best practices? How do I write a good tender?
 
 This starter pack is meant to help the layman public officer get started on some of these questions. 
 
