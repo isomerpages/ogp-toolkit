@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - Scoping the problem/Scoping the problem.md
       - Scoping the problem/.keep
       - Getting others onboard/Getting others onboard.md
       - Getting others onboard/.keep
