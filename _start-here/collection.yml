@@ -2,4 +2,5 @@ collections:
   start-here:
     output: true
     order:
+      - Getting others onboard.md
       - page.md
