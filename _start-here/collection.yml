@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - Getting others onboard/Getting others onboard.md
       - Getting others onboard/.keep
       - The 5 year plan/The 5 year plan.md
       - The 5 year plan/.keep
