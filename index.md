@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: OneUnifiedSystem Starter Pack
+description: An initiative by OGP for Hack For Public Good 2022
 image: /images/isomer-logo.svg
 permalink: /
 notification: This site is currently under construction 🚧
@@ -33,3 +33,4 @@ sections:
       button: I'm interested
       url: /start-here/intro/overview
 ---
+
