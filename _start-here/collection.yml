@@ -2,8 +2,8 @@ collections:
   start-here:
     output: true
     order:
-      - The 5 year plan.md
-      - Scoping the problem.md
       - Intro to the pack.md
+      - The 5 year plan.md
       - Getting others onboard.md
+      - Scoping the problem.md
       - page.md
