@@ -9,8 +9,8 @@ notification: This site is a prototype, and currently still under construction
 sections:
   - hero:
       title: OneUnifiedSystem Starter Pack
-      subtitle: A collection of resources to help Public Officers get started on
-        modernising an agency's legacy systems.
+      subtitle: A collection of resources to empower Public Officers when modernising
+        an agency's legacy systems.
       background: /images/bg.png
       dropdown:
         title: Jump to a section
