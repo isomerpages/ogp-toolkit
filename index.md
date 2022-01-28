@@ -29,8 +29,8 @@ sections:
             url: /start-here/approaching-vendors/overview
   - infobar:
       title: Thanks for your interest ♥️
-      description: This site is currently still a work in progress. Let us know if
-        you're interested in contributing or joining the mailing list.
+      description: This site is a work in progress. Let us know if you're interested
+        in contributing or joining the mailing list.
       button: Count me in!
       url: /interested
 ---
