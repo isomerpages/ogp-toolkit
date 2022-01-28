@@ -32,5 +32,5 @@ sections:
       description: This site is currently still a work in progress. Let us know if
         you're interested in contributing or joining the mailing list.
       button: Count me in!
-      url: /start-here/intro/overview
+      url: /interested
 ---
