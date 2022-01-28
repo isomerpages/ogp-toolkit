@@ -4,7 +4,8 @@ title: OneUnifiedSystem Starter Pack
 description: An initiative by OGP for Hack For Public Good 2022
 image: /images/isomer-logo.svg
 permalink: /
-notification: This site is currently under construction 🚧
+notification: This site is a prototype, and currently still under construction
+  🚧 Please forgive any pages that are unfilled! 🙏🏼
 sections:
   - hero:
       title: OneUnifiedSystem Starter Pack
