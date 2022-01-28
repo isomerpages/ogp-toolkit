@@ -28,9 +28,9 @@ sections:
           - title: Approaching vendors
             url: /start-here/approaching-vendors/overview
   - infobar:
-      title: "Thanks for showing your interest! "
+      title: Thanks for your interest ♥️
       description: This site is currently under construction. Let us know if you're
         interested in contributing or joining the mailing list.
-      button: I'm interested
+      button: Count me in!
       url: /start-here/intro/overview
 ---
