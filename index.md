@@ -5,7 +5,7 @@ description: An initiative by OGP for Hack For Public Good 2022
 image: /images/isomer-logo.svg
 permalink: /
 notification: This site is a prototype, and currently still under construction
-  🚧 Please forgive any pages that are unfilled! 🙏🏼
+  🚧 Please forgive any pages that are incomplete! 🙏🏼
 sections:
   - hero:
       title: OneUnifiedSystem Starter Pack
