@@ -34,3 +34,8 @@ This **OneUnifiedSystem starter pack** is meant to help the layman officer make 
 - Get planning frameworks and models to assist your planning efforts
  
 - Tips on how to write your tender and work with vendors
+
+
+This initiative was developed during OGP's Hack for Public Good 2022. View our presentation here
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmuHdM0eJoOLvWaspWzXKNr1fW22J5VxHALwg_OVs9MOUFdtV9VXqnn0p-Gbw4ic7yrEkUjTGDWs7E/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
